@@ -1,4 +1,4 @@
-### Olá, sou Guilherme, tenho 20 anos e sou desenvolvedor desde os meus 15 anos.
+### Olá, sou Guilherme, tenho 23 anos e sou desenvolvedor desde os meus 15 anos.
 
 - 🔭 Hoje trabalho como desenvolvedor fullstack
 - 🌱 Estudando a fundo sobre Typescript
